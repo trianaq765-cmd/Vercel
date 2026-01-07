@@ -47,8 +47,8 @@ const UNAUTHORIZED_HTML = `<!DOCTYPE html>
 <body>
     <div class="bg-layer"></div>
     <div class="container">
-        <div class="shield">ðŸ›¡ï¸</div>
-        <div class="auth-label"><span>â›”</span> Access Denied <span>â›”</span></div>
+        <div class="shield">🛡️</div>
+        <div class="auth-label"><span>⛔</span> Access Denied <span>⛔</span></div>
         <h1>You are not authorized to view this resource.</h1>
         <p>This endpoint is protected and requires valid executor authentication.</p>
         <div class="code">Error Code: 403 | Forbidden</div>
